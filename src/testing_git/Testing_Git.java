@@ -14,7 +14,8 @@ public class Testing_Git {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("Hellow git");
+        System.out.println("Hellow git");      
+        System.out.println("From NewB");
     }
 
 }
